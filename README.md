@@ -24,7 +24,7 @@ No additional Python packages need to be installed.
 
 ## Installation
 1. Clone the repository or download the source code:
-   git clone https://github.com/yourusername/simple-calculator.git
+   git clone https://github.com/fynndohmen/Calculator.git
    cd simple-calculator
 
 2. (Optional) Create and activate a virtual environment:
